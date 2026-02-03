@@ -192,7 +192,10 @@ npm start
 ### Home Page
 *Modern landing page with gradient design and feature highlights*
 
-![Home Page](docs/screenshots/home-page.png)
+![Uploading screencapture-localhost-3000-2026-02-03-08_59_37.png…]()
+
+![Uploading screencapture-localhost-3000-2026-02-03-09_09_15.png…]()
+
 
 ### User Dashboard
 *Clean, intuitive dashboard for students to manage their requests*
