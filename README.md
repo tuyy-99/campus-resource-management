@@ -194,8 +194,6 @@ npm start
 
 <img width="333" height="635" alt="Campus Resource Management - Mobile Home" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
 
-<img width="1366" height="633" alt="Campus Resource Management - Requests Page" src="https://github.com/user-attachments/assets/6433fb78-0377-4303-917a-abed8eb46710" />
-
 <img width="336" height="626" alt="Campus Resource Management - Mobile View" src="https://github.com/user-attachments/assets/6b1b9ee3-f496-49bf-a16b-7e4c4727c633" />
 
 ### User Dashboard
