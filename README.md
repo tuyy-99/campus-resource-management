@@ -192,9 +192,9 @@ npm start
 ### Home Page
 *Modern landing page with gradient design and feature highlights*
 
-![Uploading screencapture-localhost-3000-2026-02-03-08_59_37.png…]()
+<img width="333" height="635" alt="image" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
 
-![Uploading screencapture-localhost-3000-2026-02-03-09_09_15.png…]()
+![Uploading image.png…]()
 
 
 ### User Dashboard
