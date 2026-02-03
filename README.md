@@ -203,7 +203,7 @@ npm start
 *Clean, intuitive dashboard for students to manage their requests*
 
 <img width="270" height="624" alt="image" src="https://github.com/user-attachments/assets/2ef9a7ff-52e1-48c0-8013-441fb3551013" />
-
+ 
 
 ### Admin Panel
 *Comprehensive administrative interface for resource and request management*
