@@ -194,13 +194,13 @@ npm start
 
 <img width="333" height="635" alt="image" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
 
-![Uploading image.png…]()
+
 
 
 ### User Dashboard
 *Clean, intuitive dashboard for students to manage their requests*
 
-![User Dashboard](docs/screenshots/user-dashboard.png)
+
 
 ### Admin Panel
 *Comprehensive administrative interface for resource and request management*
@@ -343,4 +343,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for educational institutions worldwide**
+**Made with  for educational institutions **
