@@ -193,9 +193,9 @@ npm start
 *Modern landing page with gradient design and feature highlights*
 
 <img width="333" height="635" alt="image" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
-<img width="1366" height="633" alt="screencapture-localhost-3000-requests-2026-02-03-09_13_57" src="https://github.com/user-attachments/assets/6433fb78-0377-4303-917a-abed8eb46710" />
 
 
+![Uploading screencapture-localhost-3000-2026-02-03-13_36_02.png…]()
 
 
 
