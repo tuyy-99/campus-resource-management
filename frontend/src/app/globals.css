@@ -43,12 +43,61 @@ body {
 .spinner { @apply h-6 sm:h-8 w-6 sm:w-8 animate-spin rounded-full border-4 border-violet-200 border-t-violet-600; }
 
 /* -------------------- Forms & Inputs -------------------- */
-.input { @apply w-full rounded-xl border border-slate-200/80 bg-white/95 px-3 py-2 text-sm sm:px-4 sm:py-3 sm:text-base text-slate-800 placeholder:text-slate-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-400; }
-.dark .input, .input:dark { @apply border-slate-700/60 bg-slate-800/80 text-slate-100 placeholder:text-slate-500; }
-.select { @apply w-full rounded-xl border border-slate-200/80 bg-white/95 px-3 py-2 text-sm sm:text-base text-slate-800 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-400; }
-.dark .select, .select:dark { @apply border-slate-700/60 bg-slate-800/80 text-slate-100; }
-.textarea { @apply w-full rounded-xl border border-slate-200/80 bg-white/95 px-4 py-3 text-sm sm:text-base text-slate-800 placeholder:text-slate-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-400 resize-y min-h-[120px]; }
-.dark .textarea, .textarea:dark { @apply border-slate-700/60 bg-slate-800/80 text-slate-100; }
+.input { 
+  @apply w-full rounded-xl border border-slate-200/80 bg-white/95 px-3 py-2 text-sm sm:px-4 sm:py-3 sm:text-base text-slate-800 placeholder:text-slate-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-400; 
+}
+
+/* Dark mode input styles with maximum specificity */
+html.dark .input,
+.dark .input,
+:is(.dark) .input,
+[data-theme="dark"] .input { 
+  border-color: rgb(51 65 85 / 0.6) !important;
+  background-color: rgb(30 41 59 / 0.9) !important;
+  color: rgb(241 245 249) !important;
+}
+
+html.dark .input::placeholder,
+.dark .input::placeholder,
+:is(.dark) .input::placeholder,
+[data-theme="dark"] .input::placeholder {
+  color: rgb(100 116 139) !important;
+}
+
+.select { 
+  @apply w-full rounded-xl border border-slate-200/80 bg-white/95 px-3 py-2 text-sm sm:text-base text-slate-800 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-400; 
+}
+
+/* Dark mode select styles with maximum specificity */
+html.dark .select,
+.dark .select,
+:is(.dark) .select,
+[data-theme="dark"] .select { 
+  border-color: rgb(51 65 85 / 0.6) !important;
+  background-color: rgb(30 41 59 / 0.9) !important;
+  color: rgb(241 245 249) !important;
+}
+
+.textarea { 
+  @apply w-full rounded-xl border border-slate-200/80 bg-white/95 px-4 py-3 text-sm sm:text-base text-slate-800 placeholder:text-slate-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-400 resize-y min-h-[120px]; 
+}
+
+/* Dark mode textarea styles with maximum specificity */
+html.dark .textarea,
+.dark .textarea,
+:is(.dark) .textarea,
+[data-theme="dark"] .textarea { 
+  border-color: rgb(51 65 85 / 0.6) !important;
+  background-color: rgb(30 41 59 / 0.9) !important;
+  color: rgb(241 245 249) !important;
+}
+
+html.dark .textarea::placeholder,
+.dark .textarea::placeholder,
+:is(.dark) .textarea::placeholder,
+[data-theme="dark"] .textarea::placeholder {
+  color: rgb(100 116 139) !important;
+}
 
 /* Form helpers */
 .form-row { @apply flex flex-col gap-3; }
