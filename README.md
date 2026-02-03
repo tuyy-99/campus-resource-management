@@ -202,10 +202,12 @@ npm start
 ### User Dashboard
 *Clean, intuitive dashboard for students to manage their requests*
 
+![Uploading image.png…]()
 
 
 ### Admin Panel
 *Comprehensive administrative interface for resource and request management*
+![Uploading image.png…]()
 
 
 ### Mobile Responsive Design
