@@ -192,22 +192,29 @@ npm start
 ### Home Page
 *Modern landing page with gradient design and feature highlights*
 
-![Home Page](docs/screenshots/home-page.png)
+<img width="333" height="635" alt="image" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
+<img width="1366" height="633" alt="screencapture-localhost-3000-requests-2026-02-03-09_13_57" src="https://github.com/user-attachments/assets/6433fb78-0377-4303-917a-abed8eb46710" />
+
+
+
+
 
 ### User Dashboard
 *Clean, intuitive dashboard for students to manage their requests*
 
-![User Dashboard](docs/screenshots/user-dashboard.png)
+
 
 ### Admin Panel
 *Comprehensive administrative interface for resource and request management*
 
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
 
 ### Mobile Responsive Design
 *Fully responsive design that works seamlessly on all devices*
 
-![Mobile View](docs/screenshots/mobile-responsive.png)
+<img width="289" height="579" alt="image" src="https://github.com/user-attachments/assets/44b77a3b-c39e-4abe-9cb9-2dc6cc9903a0" />
+![Uploading image.png…]()
+
+
 
 ## 🔧 Available Scripts
 
@@ -340,4 +347,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for educational institutions worldwide**
+**Made with  for educational institutions **
