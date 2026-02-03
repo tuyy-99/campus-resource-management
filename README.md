@@ -192,29 +192,28 @@ npm start
 ### Home Page
 *Modern landing page with gradient design and feature highlights*
 
-<img width="333" height="635" alt="image" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
+<img width="333" height="635" alt="Campus Resource Management - Mobile Home" src="https://github.com/user-attachments/assets/2c4d6aa5-0010-432e-a364-6d96a81d6ab2" />
 
+<img width="1366" height="633" alt="Campus Resource Management - Requests Page" src="https://github.com/user-attachments/assets/6433fb78-0377-4303-917a-abed8eb46710" />
 
-<img width="336" height="626" alt="image" src="https://github.com/user-attachments/assets/6b1b9ee3-f496-49bf-a16b-7e4c4727c633" />
-
-
+<img width="336" height="626" alt="Campus Resource Management - Mobile View" src="https://github.com/user-attachments/assets/6b1b9ee3-f496-49bf-a16b-7e4c4727c633" />
 
 ### User Dashboard
 *Clean, intuitive dashboard for students to manage their requests*
 
-<img width="270" height="624" alt="image" src="https://github.com/user-attachments/assets/2ef9a7ff-52e1-48c0-8013-441fb3551013" />
- 
+<img width="270" height="624" alt="Campus Resource Management - User Dashboard" src="https://github.com/user-attachments/assets/2ef9a7ff-52e1-48c0-8013-441fb3551013" />
 
 ### Admin Panel
 *Comprehensive administrative interface for resource and request management*
-<img width="542" height="633" alt="image" src="https://github.com/user-attachments/assets/15b2e39b-6d54-442a-952a-42c70d38497c" />
 
+<img width="542" height="633" alt="Campus Resource Management - Admin Panel" src="https://github.com/user-attachments/assets/15b2e39b-6d54-442a-952a-42c70d38497c" />
 
 ### Mobile Responsive Design
 *Fully responsive design that works seamlessly on all devices*
 
-<img width="289" height="579" alt="image" src="https://github.com/user-attachments/assets/44b77a3b-c39e-4abe-9cb9-2dc6cc9903a0" />
-<img width="295" height="574" alt="image" src="https://github.com/user-attachments/assets/69014e03-a695-4030-bb8d-e5b7c029203f" />
+<img width="289" height="579" alt="Campus Resource Management - Mobile Navigation" src="https://github.com/user-attachments/assets/44b77a3b-c39e-4abe-9cb9-2dc6cc9903a0" />
+
+<img width="295" height="574" alt="Campus Resource Management - Mobile Interface" src="https://github.com/user-attachments/assets/69014e03-a695-4030-bb8d-e5b7c029203f" />
 
 
 
